@@ -12,7 +12,7 @@ Best case performance	O(n).
 Average case performance O(n^2).
 Worst case space complexity O(1) auxiliary.
 
-Open XCode and create new playground with swift. 
+Open XCode and create new playground with Swift (or you may [download] (https://github.com/snyuryev/Swift-Sorting/tree/master/bubbleSort.playground) playground and start playing with bubble sort). 
 
 ``` swift
 func bubbleSort(#unsortedArray: [Int]) ->[Int] {
