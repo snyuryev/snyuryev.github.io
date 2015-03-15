@@ -69,4 +69,9 @@ In your playground you will see something similar with this screenshot:
 
 ![Bubble sort playground](https://raw.githubusercontent.com/snyuryev/snyuryev.github.io/master/images/bubbleSortPlayground.png)
 
+
+
 You may find other playgrounds in my [Swift sorting repository] (https://github.com/snyuryev/Swift-Sorting) on GitHub. 
+
+
+
