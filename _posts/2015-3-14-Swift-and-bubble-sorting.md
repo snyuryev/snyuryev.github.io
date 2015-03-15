@@ -17,7 +17,7 @@ Let's implement bubble sort with Swift. Open XCode and create new playground wit
 
 First of all we are going to start with sorting function - bubbleSort. It takes unsorted array of integers and returns sorted array:
 
-``` swift
+``` 
 func bubbleSort(#unsortedArray: [Int]) ->[Int] {
     var sorted = unsortedArray
     for var i = 0; i < sorted.count-1; i++ {
@@ -34,33 +34,39 @@ func bubbleSort(#unsortedArray: [Int]) ->[Int] {
 ```
 
 So let's use our bubbleSort function. Declare variable with empty array of strings:
-``` swift
+
+```
 var unsorted: [Int] = []
 ```
 
 Fill array with random values:
-``` swift
+
+```
 for i in 0...10 {
     unsorted.append(random()%100)
 }
 ```
 
 Print unsorted array - check that values are unsorted:
-``` swift
+
+```
 println(unsorted)
 ```
 
 Declare the constant with the returned value from bubbleSort function:
-``` swift
+
+``` 
 let bubbleSorted = bubbleSort(unsortedArray: unsorted)
 ```
 
 Print our constant with sorted array:
-``` swift
+
+``` 
 println(bubbleSorted)
 ```
 
 In your playground you will see something similar with this screenshot:
+
 ![Bubble sort playground](https://raw.githubusercontent.com/snyuryev/snyuryev.github.io/master/images/bubbleSortPlayground.png)
 
 You may find other playgrounds in my [Swift sorting repository] (https://github.com/snyuryev/Swift-Sorting) on GitHub. 
