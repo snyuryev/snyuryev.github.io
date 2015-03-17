@@ -33,7 +33,7 @@ func bubbleSort(#unsortedArray: [Int]) ->[Int] {
 }
 ```
 
-So let's use our bubbleSort function. Declare variable with empty array of strings:
+So let's use our bubbleSort function. Declare variable with empty array of integers:
 
 ```
 var unsorted: [Int] = []
