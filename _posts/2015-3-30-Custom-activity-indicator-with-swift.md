@@ -131,7 +131,7 @@ To stop animation call:
 ```
 activityIndicator.stopAnimating()
 ```
-<p align="center">
-![Alt text](https://github.com/snyuryev/snyuryev.github.io/raw/master/images/customActivityIndicatorSwift.png "Loading indicator")
-</p>
+
+![Alt text](https://github.com/snyuryev/snyuryev.github.io/raw/master/images/customActivityIndicatorSwift.png "Loading indicator") {: .center-image }
+
 As you see it is realy easy to create your custom indicator. And it could be used in the same way like original UIActivityIndicatorView. 
