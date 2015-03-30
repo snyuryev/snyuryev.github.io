@@ -134,4 +134,4 @@ activityIndicator.stopAnimating()
 
 ![Alt text](https://github.com/snyuryev/snyuryev.github.io/raw/master/images/customActivityIndicatorSwift.png "Loading indicator")
 
-As you see it is realy simple to create your custom indicator. And in could be used in the same way like original UIActivityIndicatorView. 
+As you see it is realy easy to create your custom indicator. And it could be used in the same way like original UIActivityIndicatorView. 
