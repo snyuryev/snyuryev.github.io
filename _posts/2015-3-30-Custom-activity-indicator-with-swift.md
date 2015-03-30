@@ -132,4 +132,4 @@ To stop animation call:
 activityIndicator.stopAnimating()
 ```
 
-![Alt text](https://raw.githubusercontent.com/snyuryev/Custom-Activity-Indicator-View/master/loading_screenshot.png "Loading indicator")
+![Alt text](https://github.com/snyuryev/snyuryev.github.io/raw/master/images/customActivityIndicatorSwift.png "Loading indicator")
