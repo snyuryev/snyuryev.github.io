@@ -104,7 +104,7 @@ class CustomActivityIndicatorView: UIView {
 }
 ```
 
-Do not forger to add some image which should be animated in custom activity indicator view. Next, go to your view controller. Custom activity indicator could be simple declared this way in your class:
+Do not forget to add some image which should be animated in custom activity indicator view. Next, go to your view controller. Custom activity indicator could be simple declared this way in your class:
 
 ```
 lazy private var activityIndicator : CustomActivityIndicatorView = {
@@ -115,14 +115,19 @@ lazy private var activityIndicator : CustomActivityIndicatorView = {
 where "loading" is your image in png format. 
 
 Then simple add it to your view:
+
 ```
 self.view.addSubview(activityIndicator)
 ```
+
 And run animation:
+
 ```
 activityIndicator.startAnimating()
 ```
+
 To stop animation call:
+
 ```
 activityIndicator.stopAnimating()
 ```
